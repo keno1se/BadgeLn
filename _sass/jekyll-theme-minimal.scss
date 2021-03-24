@@ -14,8 +14,16 @@ body {
 
  #containerBadge {
    position:relative;
+   top: 0px;
+   left: 0px  
    width: 150px;
  }
+
+#containerBadge div {
+  position:absolute;
+  padding: 8px;
+ }
+
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
