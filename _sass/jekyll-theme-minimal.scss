@@ -3,7 +3,7 @@
 
 body {
   background-color: #fff;
-  padding:500px;
+  padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
@@ -14,9 +14,10 @@ body {
 
  #containerBadge {
    position:absolute;
-   top:0px;
-   left:0px; 
-   width:150px;
+   // top:0px;
+   // left:0px; 
+   width:190px;
+   background-color: #0f0;
  }
 
 #containerBadge img {
